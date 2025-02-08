@@ -1,0 +1,55 @@
+KHAGENDRA KHATRI
+Bloomfield, NJ
+realkhagendra@gmail.com https://www.linkedin.com/in/khagendrakhatri/ https://github.com/khagendra01 https://kgenkri.com/
+EDUCATION
+Caldwell University Aug 2021 - May 2025
+Bachelor of Science, Computer Science (GPA: 3.75/4.00)
+Caldwell, NJ
+• Coursework: Data Structures, Algorithms, Operating System, Artificial Intelligence, Programming Languages, Windows Programming,
+Research in Deep Learning Architectures, Software Engineering, Computer Organization & Architecture
+EXPERIENCE
+Digital Coach | Software Engineer Intern Sep 2024 - Dec 2024
+• Configured and deployed a distributed e-learning platform using Next.js and React with server-side rendering, improving platform
+performance while supporting real-time sentiment analysis for multiple concurrent users.
+• Engineered a real-time feedback system using WebSocket connections and Redis pub/sub, processing 10+ simultaneous mock interviews
+with <12s latency.
+• Implemented CI/CD pipelines using GitHub Actions to automate testing, deployment, and infrastructure provisioning, achieving
+zero-downtime deployments and reducing release cycles by 60%.
+Radical AI | AI Engineer Intern Jun 2024 - Aug 2024
+• Led the development and deployment of AI solutions using OpenAI Assistant API and Google Gemini, employing agile methodologies to
+achieve a 30% increase in system throughput.
+• Managed end-to-end data pipeline processes, including data collection, cleaning, and preprocessing, to optimize data quality for generative
+AI models, resulting in a 25% improvement in model performance and reliability.
+• Spearheaded prompt engineering and performance testing, leveraging detailed analytics and AI testing to refine AI model interactions,
+achieving 20% faster response times in user-facing applications.
+Caldwell University | Machine Learning Researcher May 2024 - Aug 2024
+• Architected and implemented a novel Xito Recurrent Unit to address the vanishing gradient problem in sequential data processing, resulting
+in 17% improvement in computational efficiency compared to traditional architectures.
+• Led a summer research project on neural network architecture design, addressing RNN challenges with diverse datasets and advanced
+frameworks using PyTorch, which enhanced model accuracy and efficiency.
+PROJECTS
+Crystal Math
+• Developed an AI-driven math problem-solving tool that transforms concepts into immersive animations, while implementing a 10x
+cost-optimized video pipeline with Manim to maintain output and a seamless experience.
+• Deployed a secure, scalable back-end using Flask and PythonAnywhere, ensuring reliable access to user-generated videos stored in AWS
+S3, and enabling rapid retrieval and playback of solution animations.
+• Streamlined payment and credit management functionalities through Verbwire, implementing usage tracking and pay-as-you-go scalability,
+resulting in a sustainable, monetized user ecosystem.
+E-Graveyard
+• Designed and executed a high-throughput conversational AI platform handling 20+ concurrent users with <3s response time, using Django
+Channels for WebSocket connections.
+• Engineered a shared task processing system using Celery and Redis Queue, achieving 5x improvement in voice generation throughput and
+reducing API costs by 50% through intelligent caching and batch processing.
+• Implemented voice cloning with Eleven Labs API, custom vector storage using pg-vector in PostgreSQL, LangChain RAG architecture
+for contextually relevant responses, and Celery for load optimization.
+SKILLS
+• Languages: C#, Python, JavaScript, TypeScript, SQL, Java, C, HTML/CSS
+• Frameworks: Django, Flask, Redis, Node, TailwindCSS, ASP.NET Core
+• Tools: Git & GitHub, Docker, Kubernetes, AWS, Nginx, Terraform, Jenkins
+AWARDS & RESEARCH
+• Hackathon Wins |
+Winner at HackPrinceton Fall 2024 (500+ participants), HopHacks Fall 2024 (100+ teams), HackRU Fall 2024 (400+ hackers), HackNIJT
+Fall 2024 (500+ participants), HackRU Spring 2025 (120+ teams).
+• Research Projects |
+American Sign Language Translation (Sept 2024 - Dec 2024); Xito Recurrent Unit (May - Aug 2024); Plagiarism Detector (ANN model,
+95% accuracy, published at 28th annual conference of the Consortium for Computing Sciences 2024).
